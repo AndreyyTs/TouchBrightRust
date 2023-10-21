@@ -1,1 +1,2 @@
-# BLAZER_FAST_WEB
+# TouchBrightRust
+управление яркостью экрана с тачпада 
