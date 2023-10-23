@@ -3,7 +3,7 @@
 
 как в этом видосе https://www.youtube.com/watch?v=1HrcSpNxVig
 
-![Иллюстрация к проекту(https://github.com/AndreyyTs/TouchBrightRust/blob/main/посмотреть как работает.gif)
+![Иллюстрация к проекту(https://github.com/AndreyyTs/TouchBrightRust/blob/main/посмотреть_как_работает.gif)
 
 
 
